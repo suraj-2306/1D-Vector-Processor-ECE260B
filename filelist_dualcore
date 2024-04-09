@@ -1,0 +1,16 @@
+./verilog_dualcore/fullchip_tb.v
+./verilog_dualcore/fullchip.v
+./verilog_dualcore/core.v
+./verilog_dualcore/sync.v
+./verilog_dualcore/sfp_row.v
+./verilog_dualcore/mac_col.v
+./verilog_dualcore/mac_8in.v
+./verilog_dualcore/mac_array.v
+./verilog_dualcore/sram_w16.v
+./verilog_dualcore/sram_w16_64.v
+./verilog_dualcore/sram_w16_160.v
+./verilog_dualcore/ofifo.v
+./verilog_dualcore/fifo_depth16.v
+./verilog_dualcore/fifo_mux_16_1.v
+./verilog_dualcore/fifo_mux_8_1.v
+./verilog_dualcore/fifo_mux_2_1.v
